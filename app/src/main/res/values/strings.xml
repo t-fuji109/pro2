@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">testApplication</string>
+    <string name="userName">ユーザー名</string>
+    <string name="password">パスワード</string>
+
+    <string name="password2">パスワード(確認用)</string>
+    <string name="login_button">ログイン</string>
+    <string name="register_button">登録</string>
+
+    <string name="regist_title">アカウント設定</string>
+    <string name="userName2">"userName"</string>
+    <string name="profession">職業</string>
+    <string name="feature">特徴</string>
+    <string name="searchGroup">グループ参加</string>
+    <string name="search">検索</string>
+
+    <string name="group">グループ</string>
+
+    <string name="questionNum">1</string>
+    <string name="answerNum">1</string>
+    <string name="rateNum">1</string>
+    <string name="remindMoney">残額:</string>
+    <string name="remindMoneyNum">100</string>
+    <string name="editText">編集</string>
+
+    <!--- money_activity -->
+    <string name="sendMoney">送金額</string>
+    <string name="receiveMoney">着金可能額</string>
+    <string name="receiveMoneyAmount">0コイン</string>
+    <string name="receive">着金</string>
+    <string name="send">送金</string>
+
+    <!-- talk_manage_activity -->
+    <string name="answerApp">回答希望確認</string>
+    <string name="answerCheck">回答確認</string>
+    <string name="offerCheck">オファー確認</string>
+    <string name="ranCheck">オファー待ち確認</string>
+
+    <!-- group_add_activity -->
+    <string name="addgroupName">グループ名</string>
+    <string name="groupExpl">説明</string>
+    <string name="addGroup">追加</string>
+
+    <!-- question_room_activity -->
+    <string name="question">質問する</string>
+
+    <!-- watch_question_activity -->
+    <string name="send_equivalent">評価する</string>
+    <string name="alert">通報</string>
+
+    <!-- check_question_activity -->
+    <string name="help">助ける</string>
+
+    <!-- ask_question_activity -->
+    <string name="ask">さんに質問する</string>
+    <string name="question_hint">質問を入力</string>
+    <string name="attach">添付</string>
+    <string name="send_question">質問を投稿する</string>
+
+    <!-- return_answer_activity -->
+    <string name="reject">拒否する</string>
+    <string name="send_answer">回答を送信する</string>
+
+    <!--menue_bar-->
+    <string name="log_out">ログアウト</string>
+
+
+</resources>
